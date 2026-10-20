@@ -63,6 +63,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - lib/week03/assets/images/
+    - lib/lab01/assets/
 
   fonts:
     - family: montserrat
